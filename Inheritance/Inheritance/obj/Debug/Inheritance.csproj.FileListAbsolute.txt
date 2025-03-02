@@ -1,0 +1,2 @@
+C:\Users\murad\OneDrive\Masaüstü\github\AcunmedyaAkademi-devi\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+C:\Users\murad\OneDrive\Masaüstü\github\AcunmedyaAkademi-devi\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
