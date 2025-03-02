@@ -1,0 +1,30 @@
+Abstract Class (Soyut Sınıf) Nedir?
+içinde en az bir tane soyut (abstract) metod bulunduran ve doğrudan örneklenemeyen bir sınıftır.
+
+Özellikleri:
+
+Soyut sınıflardan nesne oluşturulamaz.
+
+En az bir soyut metot içermelidir.
+
+Soyut metodlar, alt sınıflar tarafından override (ezilmek) zorundadır.
+
+Hem soyut hem de normal (gövdesi olan) metodlar içerebilir.
+
+Polymorphism 
+Polimorfizm, aynı metodun farklı şekillerde kullanılabilmesi anlamına gelir.İki türü vardır:
+1. Metod Overriding (Ezme): Alt sınıfların, üst sınıftaki metodları kendi ihtiyacına göre değiştirmesi.
+2. Metod Overloading (Aşırı Yükleme): Aynı isimde ancak farklı parametrelerle tanımlanan metodlar.(Çok Biçimlilik) Nedir?
+
+Abstraction (Soyutlama) Nedir?
+Soyutlama, nesne yönelimli programlamada karmaşıklığı azaltmak ve gereksiz detayları gizlemek için kullanılan bir tekniktir. Kullanıcıya sadece gerekli olan bilgiyi gösterir, iç detayları saklar.
+Gerçek hayattan örnek:
+Bir arabayı kullanırken motorun iç mekanizmasını bilmenize gerek yoktur. Sadece gaz pedalına basarsınız ve araba gider.
+
+Sonuç:
+
+Soyut sınıf: Alt sınıfların ortak özelliklerini tanımlayan sınıflardır, nesne oluşturulamaz.
+Soyutlama: Kullanıcıya sadece gerekli bilgiyi sunar, detayları gizler.
+Polimorfizm: Aynı metodun farklı formlarda kullanılabilmesini sağlar.
+
+Bu üç kavram, Nesne Yönelimli Programlamanın (OOP) temel taşlarıdır ve kodun daha esnek, yeniden kullanılabilir ve yönetilebilir olmasını sağlar
