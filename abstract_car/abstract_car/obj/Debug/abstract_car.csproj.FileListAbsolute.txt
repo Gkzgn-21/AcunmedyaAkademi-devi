@@ -1,0 +1,7 @@
+C:\Users\murad\OneDrive\Masaüstü\github\AcunmedyaAkademi-devi\.git\abstract_car\abstract_car\bin\Debug\abstract_car.exe.config
+C:\Users\murad\OneDrive\Masaüstü\github\AcunmedyaAkademi-devi\.git\abstract_car\abstract_car\bin\Debug\abstract_car.exe
+C:\Users\murad\OneDrive\Masaüstü\github\AcunmedyaAkademi-devi\.git\abstract_car\abstract_car\bin\Debug\abstract_car.pdb
+C:\Users\murad\OneDrive\Masaüstü\github\AcunmedyaAkademi-devi\.git\abstract_car\abstract_car\obj\Debug\abstract_car.csproj.AssemblyReference.cache
+C:\Users\murad\OneDrive\Masaüstü\github\AcunmedyaAkademi-devi\.git\abstract_car\abstract_car\obj\Debug\abstract_car.csproj.CoreCompileInputs.cache
+C:\Users\murad\OneDrive\Masaüstü\github\AcunmedyaAkademi-devi\.git\abstract_car\abstract_car\obj\Debug\abstract_car.exe
+C:\Users\murad\OneDrive\Masaüstü\github\AcunmedyaAkademi-devi\.git\abstract_car\abstract_car\obj\Debug\abstract_car.pdb

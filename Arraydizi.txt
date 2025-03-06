@@ -1,0 +1,31 @@
+Array (Dizi) Nedir?
+
+Array (Dizi), aynı veri tipindeki birden fazla değeri saklamak için kullanılan bir veri yapısıdır. C#’ta diziler sabit bir boyuta sahiptir ve 0. index’ten başlar
+C# ile Array (Dizi) Kullanımı
+
+1. Dizi Tanımlama ve Değer Atama
+
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        // 5 elemanlı bir int dizisi tanımlama
+        int[] numbers = new int[5];
+
+        // Dizinin elemanlarına değer atama
+        numbers[0] = 10;
+        numbers[1] = 20;
+        numbers[2] = 30;
+        numbers[3] = 40;
+        numbers[4] = 50;
+
+        // Diziyi ekrana yazdırma
+        Console.WriteLine("Dizi Elemanları:");
+        for (int i = 0; i < numbers.Length; i++)
+        {
+            Console.WriteLine(numbers[i]);
+        }
+    }
+}
