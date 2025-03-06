@@ -1,0 +1,7 @@
+C:\Users\murad\OneDrive\Masaüstü\github\AcunmedyaAkademi-devi\Interface_salary\Interface_salary\bin\Debug\Interface_salary.exe.config
+C:\Users\murad\OneDrive\Masaüstü\github\AcunmedyaAkademi-devi\Interface_salary\Interface_salary\bin\Debug\Interface_salary.exe
+C:\Users\murad\OneDrive\Masaüstü\github\AcunmedyaAkademi-devi\Interface_salary\Interface_salary\bin\Debug\Interface_salary.pdb
+C:\Users\murad\OneDrive\Masaüstü\github\AcunmedyaAkademi-devi\Interface_salary\Interface_salary\obj\Debug\Interface_salary.csproj.AssemblyReference.cache
+C:\Users\murad\OneDrive\Masaüstü\github\AcunmedyaAkademi-devi\Interface_salary\Interface_salary\obj\Debug\Interface_salary.csproj.CoreCompileInputs.cache
+C:\Users\murad\OneDrive\Masaüstü\github\AcunmedyaAkademi-devi\Interface_salary\Interface_salary\obj\Debug\Interface_salary.exe
+C:\Users\murad\OneDrive\Masaüstü\github\AcunmedyaAkademi-devi\Interface_salary\Interface_salary\obj\Debug\Interface_salary.pdb
