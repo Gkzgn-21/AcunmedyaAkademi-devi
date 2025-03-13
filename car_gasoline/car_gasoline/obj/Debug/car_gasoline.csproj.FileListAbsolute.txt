@@ -1,0 +1,7 @@
+C:\Users\murad\OneDrive\Masaüstü\github\AcunmedyaAkademi-devi\car_gasoline\car_gasoline\bin\Debug\car_gasoline.exe.config
+C:\Users\murad\OneDrive\Masaüstü\github\AcunmedyaAkademi-devi\car_gasoline\car_gasoline\bin\Debug\car_gasoline.exe
+C:\Users\murad\OneDrive\Masaüstü\github\AcunmedyaAkademi-devi\car_gasoline\car_gasoline\bin\Debug\car_gasoline.pdb
+C:\Users\murad\OneDrive\Masaüstü\github\AcunmedyaAkademi-devi\car_gasoline\car_gasoline\obj\Debug\car_gasoline.csproj.AssemblyReference.cache
+C:\Users\murad\OneDrive\Masaüstü\github\AcunmedyaAkademi-devi\car_gasoline\car_gasoline\obj\Debug\car_gasoline.csproj.CoreCompileInputs.cache
+C:\Users\murad\OneDrive\Masaüstü\github\AcunmedyaAkademi-devi\car_gasoline\car_gasoline\obj\Debug\car_gasoline.exe
+C:\Users\murad\OneDrive\Masaüstü\github\AcunmedyaAkademi-devi\car_gasoline\car_gasoline\obj\Debug\car_gasoline.pdb
