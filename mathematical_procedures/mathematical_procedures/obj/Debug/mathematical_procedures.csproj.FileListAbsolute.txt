@@ -1,0 +1,7 @@
+C:\Users\murad\OneDrive\Masaüstü\github\AcunmedyaAkademi-devi\mathematical_procedures\mathematical_procedures\bin\Debug\mathematical_procedures.exe.config
+C:\Users\murad\OneDrive\Masaüstü\github\AcunmedyaAkademi-devi\mathematical_procedures\mathematical_procedures\bin\Debug\mathematical_procedures.exe
+C:\Users\murad\OneDrive\Masaüstü\github\AcunmedyaAkademi-devi\mathematical_procedures\mathematical_procedures\bin\Debug\mathematical_procedures.pdb
+C:\Users\murad\OneDrive\Masaüstü\github\AcunmedyaAkademi-devi\mathematical_procedures\mathematical_procedures\obj\Debug\mathematical_procedures.csproj.AssemblyReference.cache
+C:\Users\murad\OneDrive\Masaüstü\github\AcunmedyaAkademi-devi\mathematical_procedures\mathematical_procedures\obj\Debug\mathematical_procedures.csproj.CoreCompileInputs.cache
+C:\Users\murad\OneDrive\Masaüstü\github\AcunmedyaAkademi-devi\mathematical_procedures\mathematical_procedures\obj\Debug\mathematical_procedures.exe
+C:\Users\murad\OneDrive\Masaüstü\github\AcunmedyaAkademi-devi\mathematical_procedures\mathematical_procedures\obj\Debug\mathematical_procedures.pdb

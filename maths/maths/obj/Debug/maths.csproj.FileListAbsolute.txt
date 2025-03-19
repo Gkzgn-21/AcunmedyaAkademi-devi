@@ -1,0 +1,2 @@
+C:\Users\murad\OneDrive\Masaüstü\github\AcunmedyaAkademi-devi\maths\maths\obj\Debug\maths.csproj.AssemblyReference.cache
+C:\Users\murad\OneDrive\Masaüstü\github\AcunmedyaAkademi-devi\maths\maths\obj\Debug\maths.csproj.CoreCompileInputs.cache
