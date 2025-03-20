@@ -1,0 +1,34 @@
+1. public (Genel)
+
+Tanım: Bir sınıf, metod veya değişken public olarak tanımlandığında, her yerden erişilebilir olur.
+
+Gerçek Hayattan Örnek: Bir markette bulunan müşteri hizmetleri telefon numarası herkes tarafından erişilebilir.
+
+2. private (Özel)
+
+Tanım: Bir üye private olarak tanımlanırsa, sadece tanımlandığı sınıf içinde erişilebilir olur.
+
+Gerçek Hayattan Örnek: Bir şirketin çalışan maaş bilgileri sadece yetkili muhasebeciler tarafından görülebilir.
+
+3. protected (Korunan)
+
+Tanım: protected üyelere sadece aynı sınıf ve o sınıftan türetilen (miras alan) alt sınıflar erişebilir.
+
+Gerçek Hayattan Örnek: Bir fabrikanın üretim sırları, sadece üst düzey yöneticiler ve ilgili mühendisler tarafından bilinebilir.
+
+4. internal (Dahili)
+
+Tanım: internal üyelere sadece aynı projede (assembly içinde) erişilebilir.
+
+Gerçek Hayattan Örnek: Bir banka uygulamasındaki iç müşteri veritabanı sadece bankanın sistemleri tarafından erişilebilir.
+
+Erişim Belirleyicilerin OOP’deki Rolü
+
+Kapsülleme (Encapsulation): Gereksiz veya hassas bilgilerin dışarıdan erişilmesini önleyerek güvenliği sağlar.
+
+Güvenlik: Özel bilgiler private veya protected yapılarak yalnızca ilgili bölümlerde kullanılabilir.
+
+Kod Yönetimi: Büyük projelerde hangi verilere erişilebileceğini belirleyerek düzen sağlar.
+
+
+Bu erişim belirleyiciler, yazılım geliştirmede güvenliği ve veri bütünlüğünü sağlamak için çok önemlidir.
