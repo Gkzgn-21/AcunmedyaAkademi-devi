@@ -1,0 +1,21 @@
+GARBAGE COLLECTOR NEDİR?
+kullanılmayan veya erişilemeyen nesneleri otomatik olarak tespit edip bellekten temizleyen bir sistemdir. 
+Genç Koleksiyon (Young Generation):
+ Yeni oluşturulan nesnelerin bulunduğu alandır. Genellikle hızlı bir şekilde temizlenir.
+BELLEK YÖNETİMİNDEKİ ROLÜ:
+Otomatik Bellek Yönetimi, Performans İyileştirmesi, Kaynak Yönetimi
+GENERİC YAPILARININ AVANTAJLARI:
+Tip Boxing: Değer türlerinin (örneğin, int, char, bool) referans türlerine (örneğin, object) dönüştürülmesi işlemidir. Bu işlem, değer türünün bir kutuya (box) yerleştirilmesi anlamına gelir. Güvenliği, Kod Tekrarını Azaltma, Performans, Okunabilirlik ve Anlaşılabilirlik
+Unboxing: Referans türündeki bir nesnenin, orijinal değer türüne geri dönüştürülmesi işlemidir. Bu işlem, kutudan (box) çıkarılması anlamına gelir
+performans üzerinde olumsuz bir etki yaratabilir. Çünkü boxing işlemi, heap üzerinde yeni bir nesne oluşturur ve bu da bellek yönetimi ve çöp toplama süreçlerini etkiler. Unboxing işlemi ise, tür kontrolü gerektirir ve bu da ek bir maliyet getirir. Bu nedenle, mümkün olduğunca generic yapılar kullanarak boxing ve unboxing işlemlerinden kaçınmak, performansı artırabilir.
+Namespace (isim alanı), C# programlama dilinde sınıfları, metotları ve diğer bileşenleri organize etmek ve çakışmaları önlemek için kullanılan bir yapıdır. Büyük projelerde kodu düzenlemek, modüler hale getirmek ve okunabilirliği artırmak için namespace kullanılır.
+FARKLI NAMESPACE KULLANMANIN AVANTAJLARI:
+Kod Düzeni, Çakışmaları Önleme, Kolay Bakım ve Okunabilirlik, Kapsülleme
+Genişletilebilirlik: Bir yazılımın mevcut kod yapısını bozmadan yeni özellikler eklemeye uygun olmasını ifade eder.
+GENİŞLETİLEBİLİRLİĞİ SAĞLAMAK İÇİN:
+Soyutlama (Abstraction) Kullanımı: Interface ve abstract sınıflar ile genişletilebilir yapılar oluşturulabilir.
+Bağımsız Modüller (Modularity): Kodun farklı bölümlerinin birbirine sıkı bağımlılığını önleyerek modüler tasarım uygulanmalıdır.
+Tasarım Kalıpları (Design Patterns): Factory Pattern, Dependency Injection, Observer gibi kalıplar ile genişletilebilir yapı oluşturulabilir.
+SOLID Prensipleri: Özellikle Açık/Kapalı Prensibi (Open/Closed Principle - OCP), mevcut kodu değiştirmeden yeni özelliklerin eklenmesine izin verir.
+	
+
